@@ -1,5 +1,5 @@
 # Pravna-informatika
-Pokretanje programa nije neophodno. Rezultujući csv fajlovi su prisutni, a takođe, postoje output-i za svaku ćeliju u .ipynb fajlovima, koji govore šta se desilo prilikom izvršavanja određene ćelije.
+Pokretanje programa nije neophodno. Rezultujući csv fajlovi i obučeni modeli su prisutni, a takođe, postoje output-i za svaku ćeliju u .ipynb fajlovima, koji govore šta se desilo prilikom izvršavanja određene ćelije.
 
 Uputstvo za korišćenje:
  - Prvo ispokretati redom ćelije u fajlu Izdvajanje rečenica.ipynb. Ovime se dobija csv fajl u kome su presude razbijene na rečenice koji se dalje koristi.
